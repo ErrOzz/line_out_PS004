@@ -1,0 +1,21 @@
+Field=Capasitance~String~Capasitance~43|Field=Comment~String~Comment~122|Field=Description~String~Description~122|Field=Designator~String~Designator~172|Field=Footprint~String~Footprint~130|Field=LibRef~String~LibRef~109|Field=Name~String~Name~48|Field=Quantity~Integer~Quantity~22|Field=Resistance~String~Resistance~23|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PS004.PrjPcb|ReportField=ProjectFullPath~D:\Pioneer\Documents\OZ\PCB\line out V004\PS004.PrjPcb|ReportField=Title~Bill of Materials For Project [PS004.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~124|ReportField=ReportTime~18:03:56|ReportField=ReportDate~27.02.2012|ReportField=ReportDateTime~27.02.2012 18:03:56|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~27.02.2012|ReportField=CurrentTime~17:59:58|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Pioneer\Documents\OZ\PCB\line out V004\PS004.SchDoc|ReportField=DocumentName~PS004.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~17.02.2011|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.97|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=1|PaperLength=2970|PaperWidth=2100|Scale=100|PaperSource=7|PrintQuality=600|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1|ReportField=ProjectName~PS004.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PS004.PrjPcb|ReportField=DataSourceFullPath~D:\Pioneer\Documents\OZ\PCB\line out V004\PS004.PrjPcb
+|SC plan||AM, OM, PM0, PM1|SC|SC plan||4|
+|IN plan||BU, GND, IN1, IN2, IN3, IN4, IN COM, MUT, ON|IO|IN plan||9|
+10u/16v, 22u/16V, 22u/25V, 47u/16v, 68u/16V|C plan pol||C1, C3, C4, C5, C7, C9, C10|C|C plan pol||7|
+0.1u, 330p|C plan cer||C2, C6, C8, C23, C24, C25, C26|0805|C plan cer||7|
+10u|C plan cer||C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22|1206|C plan cer||12|
+|D plan||D1, D2|SOD-123|D plan|MBR0520LT1|2|
+|DZ plan||D3, D4, D5, D6, D7|SOT-23|DZ plan|BZX84C5V1, BZX84C5V7, BZX84C11|5|
+|DI plan||D8, D9|0805 DI|DI plan|KP-2012MGC, KP-2012SURC|2|
+|IC 8 plan||IC1, IC2|SO-8|IC 8 plan|TL071, TL072|2|
+|IC 14 plan||IC3|SO-14|IC 14 plan|TL074|1|
+|OUT plan||OUT1, OUT2, OUT3, OUT4, OUTGND1, OUTGND2, OUTGND3, OUTGND4|IO|OUT plan||8|
+|QD npn plan||Q1, Q8, Q9|SOT-23|QD npn plan|BCR135|3|
+|QD pnp plan||Q2, Q4|SOT-23|QD pnp plan|BCR185|2|
+|Q npn plan||Q3|SOT-223|Q npn plan|BDP947|1|
+|Q npn plan||Q5, Q7, Q11, Q12, Q13, Q14|SOT-23|Q npn plan|BC817-40LT1, BCW68H|6|
+|Q pnp plan||Q6|SOT-223|Q pnp plan|BDP950|1|
+|Q pnp plan||Q10|SOT-23|Q pnp plan|BC807-40LT1|1|
+|R plan||R1, R2, R3, R4, R5, R6, R7, R9, R10, R11, R12, R13, R14, R15, R16, R17, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31, R32, R33, R34, R35, R36, R37, R38, R39, R40, R41, R42, R43, R44, R45, R46, R47, R48, R49, R50, R51|0805|R plan||49|0, 1.8k, 1k, 4.7k, 10, 18k, 22k, 47k, 100k, 180, 470
+|R plan||R18|1210|R plan||1|2.2
+|OUT plan||REMOUT|IOEX|OUT plan||1|
